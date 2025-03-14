@@ -115,9 +115,13 @@
 		{
 			"id": 29,
 			"joke": "What's the best thing about a Boolean?|||Even if you're wrong, you're only off by a bit."
+		},
+		{
+			"id": 30,
+			"joke": "Age is just a number|||Actually, its a string.."
 		}
 	],
-	"Developer":[
+	"developer":[
 		{
 			"id": 1,
 			"joke": "Why did the cookie go to the doctor?||| Because it was feeling crumbly."
@@ -135,48 +139,231 @@
 			"joke": "How many React developers does it take to change a lightbulb?|||None, they prefer dark mode."
 		},
 		{
-			"id": 1,
+			"id": 5,
 			"joke": "What's Forrest Gump's password?|||1Forrest1"
 		},
 		{
-			"id": 2,
+			"id": 6,
 			"joke": "Why don't React developers like nature?|||They prefer the virtual DOM."
 		},
 		{
-			"id": 3,
+			"id": 7,
 			"joke": "What do you get when you cross a React developer with a mathematician?|||A function component."
 		},
 		{
-			"id": 4,
+			"id": 8,
 			"joke": "Why did the developer go broke buying Bitcoin?|||He kept calling it bytecoin and didn't get any."
 		},
 		{
-			"id": 5,
+			"id": 9,
 			"joke": "Why did the programmer go to art school?|||He wanted to learn how to code outside the box."
 		},
 		{
-			"id": 6,
+			"id": 10,
 			"joke": "Why did the programmer's wife leave him?|||He didn't know how to commit."
 		},
 		{
-			"id": 7,
+			"id": 11,
 			"joke": "Why do programmers prefer dark chocolate?|||Because it's bitter like their code."
 		},
 		{
-			"id": 8,
+			"id": 12,
 			"joke": "Why did the programmer go broke?|||He used up all his cache"
 		},
 		{
-			"id": 9,
+			"id": 13,
 			"joke": "Why did the programmer always mix up Halloween and Christmas?|||Because Oct 31 equals Dec 25."
 		},
 		{
-			"id": 42,
+			"id": 14,
 			"joke": "Why don't programmers like nature?|||There's too many bugs."
 		},
 		{
-			"id": 43,
+			"id": 15,
 			"joke": "Why was the JavaScript developer sad?|||He didn't know how to null his feelings."
+		},
+		{
+			"id": 16,
+			"joke": "Why IT companies are full of racists|||Most of them prefer dark mode."
+		},
+		{
+			"id": 17,
+			"joke": "Why most of websites dosent have darkmode?|||Racist's.."
+		},
+		{
+			"id": 18,
+			"joke": "Man, i stole your code|||Its not my code"
+		},
+		{
+			"id": 19,
+			"joke": "Whers the documentation for this code|||I AM the DOCUMENTATION"
+		},
+		{
+			"id": 20,
+			"joke": "I found a bug in you code|||Naah.. its new upcomming feature"
+		},
+		{
+			"id": 21,
+			"joke": "What do you need for a good relation?|||PRIMARY_KEY"
+		},
+		{
+			"id": 22,
+			"joke": "What makes you suitable for this job|||I hacked your computer and invited myself for this interview"
+		},
+		{
+			"id": 23,
+			"joke": "Explain deadlock and i'll hire you|||Hire me, an ill explain it to you"
+		},
+		{
+			"id": 24,
+			"joke": "Can you pass me the salt ?|||Pass-By-Value ? or Pass-By-Reference"
+		},
+		{
+			"id": 25,
+			"joke": "Are you a Software Engineer ? or Software Developer ?|||Software Gardener"
+		},
+		{
+			"id": 26,
+			"joke": "What are clouds made of ?|||Linux Serverss Mostly"
+		},
+		{
+			"id": 27,
+			"joke": "How does a compu3ter get drunk ?|||It takes Screen-Shots"
+		},
+		{
+			"id": 28,
+			"joke": "Did you say Hugs and Kisses ?|||Naah.. Bugs and Fixxes..!"
+		},
+		{
+			"id": 29,
+			"joke": "Which way we go ? docs-0.5KM or StackOverFlow-21KM|||21KM is closest"
+		},
+		{
+			"id": 30,
+			"joke": "What is your favorite programming language|||CTRL+c & CTRL+v"
 		}
+	],
+	"actors":[
+		{
+			"id":1,
+			"roles":"Nibbi|||Nibba"
+		},
+		{
+			"id":2,
+		"roles":"Manager|||Me"
+		},
+		{
+			"id":3,
+			"roles":"My Girl|||Me"
+		},
+		{
+			"id":4,
+			"roles":"Developer|||Me"
+		},
+		{
+			"id":5,
+			"roles":"Tester|||Me"
+		},
+		{
+			"id":6,
+			"roles":"Mom|||Me"
+		},
+		{
+			"id":7,
+			"roles":"Teammate|||Me"
+		},
+		{
+			"id":8,
+			"roles":"Deadpool|||Developer"
+		},
+		{
+			"id":9,
+			"roles":"Her|||Him"
+		},
+		{
+			"id":10,
+			"roles":"He|||Me"
+		},
+		{
+			"id":11,
+			"roles":"Boss|||Me"
+		},
+		{
+			"id":12,
+			"roles":"Me|||ChatGPT"
+		},
+		{
+			"id":13,
+			"roles":"ChatGPT|||GitAutopilot"
+		},
+		{
+			"id":14,
+			"roles":"Dad|||Me"
+		},
+		{
+			"id":15,
+			"roles":"Junior|||Senior"
+		},
+		{
+			"id":16,
+			"roles":"Intern|||Sr Dev"
+		},
+		{
+			"id":17,
+			"roles":"Jr Dev|||Sr Dev"
+		},
+		{
+			"id":18,
+			"roles":"Crush|||Me"
+		},
+		{
+			"id":19,
+			"roles":"Normal People|||Me"
+		},
+		{
+			"id":20,
+			"roles":"Office Crush|||Me"
+		},
+		{
+			"id":21,
+			"roles":"Crush|||The Boys"
+		},
+		{
+			"id":22,
+			"roles":"beka|||Richard"
+		},
+		{
+			"id":23,
+			"roles":"Thor|||Brude Banner"
+		},
+		{
+			"id":24,
+			"roles":"OpenAI|||DeepSeek"
+		},
+		{
+			"id":25,
+			"roles":"Siri|||Ok Google"
+		},
+		{
+			"id":26,
+			"roles":"Boba|||Nerd"
+		},
+		{
+			"id":27,
+			"roles":"Beluga|||Hecker"
+		},
+		{
+			"id":28,
+			"roles":"Wife|||Me"
+		},
+		{
+			"id":29,
+			"roles":"Client|||Freelancer"
+		},
+		{
+			"id":30,
+			"roles":"Tester|||Dev"
+		}
+		
 	]
 }
