@@ -7,7 +7,7 @@ __**JSON-Server**__ : https://my-json-server.typicode.com/SivaRayal/RandomJokes
 
 ### Endpoints :
   * https://my-json-server.typicode.com/SivaRayal/RandomJokes/programming/ ```:randomId [range: 1-30]``` 
-  * https://my-json-server.typicode.com/SivaRayal/RandomJokes/Developer/ `:randomId [range: 1-30] `
+  * https://my-json-server.typicode.com/SivaRayal/RandomJokes/developer/ `:randomId [range: 1-30] `
   * https://my-json-server.typicode.com/SivaRayal/RandomJokes/actors/ `:randomId [range: 1-30] `
 
 <br />
