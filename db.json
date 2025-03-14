@@ -115,60 +115,9 @@
 		{
 			"id": 29,
 			"joke": "What's the best thing about a Boolean?|||Even if you're wrong, you're only off by a bit."
-		},
-		{
-			"id": 30,
-			"joke": "How many React developers does it take to change a lightbulb?|||None, they prefer dark mode."
-		},
-		{
-			"id": 31,
-			"joke": "Why don't React developers like nature?|||They prefer the virtual DOM."
-		},
-		{
-			"id": 32,
-			"joke": "What do you get when you cross a React developer with a mathematician?|||A function component."
-		},
-		{
-			"id": 33,
-			"joke": "Why did the developer go broke buying Bitcoin?|||He kept calling it bytecoin and didn't get any."
-		},
-		{
-			"id": 36,
-			"joke": "Why did the programmer go to art school?",
-			"punchline": "He wanted to learn how to code outside the box."
-		},
-		{
-			"id": 37,
-			"joke": "Why did the programmer's wife leave him?",
-			"punchline": "He didn't know how to commit."
-		},
-		{
-			"id": 38,
-			"joke": "Why do programmers prefer dark chocolate?",
-			"punchline": "Because it's bitter like their code."
-		},
-		{
-			"id": 39,
-			"joke": "Why did the programmer go broke?",
-			"punchline": "He used up all his cache"
-		},
-		{
-			"id": 40,
-			"joke": "Why did the programmer always mix up Halloween and Christmas?",
-			"punchline": "Because Oct 31 equals Dec 25."
-		},
-		{
-			"id": 42,
-			"joke": "Why don't programmers like nature?",
-			"punchline": "There's too many bugs."
-		},
-		{
-			"id": 43,
-			"joke": "Why was the JavaScript developer sad?",
-			"punchline": "He didn't know how to null his feelings."
 		}
 	],
-	"general":[
+	"Developer":[
 		{
 			"id": 1,
 			"joke": "Why did the cookie go to the doctor?||| Because it was feeling crumbly."
@@ -183,11 +132,51 @@
 		},
 		{
 			"id": 4,
-			"joke": "How do you make a tissue dance?|||You put a little boogie on it."
+			"joke": "How many React developers does it take to change a lightbulb?|||None, they prefer dark mode."
+		},
+		{
+			"id": 1,
+			"joke": "What's Forrest Gump's password?|||1Forrest1"
+		},
+		{
+			"id": 2,
+			"joke": "Why don't React developers like nature?|||They prefer the virtual DOM."
+		},
+		{
+			"id": 3,
+			"joke": "What do you get when you cross a React developer with a mathematician?|||A function component."
+		},
+		{
+			"id": 4,
+			"joke": "Why did the developer go broke buying Bitcoin?|||He kept calling it bytecoin and didn't get any."
 		},
 		{
 			"id": 5,
-			"joke": "What's Forrest Gump's password?|||1Forrest1"
+			"joke": "Why did the programmer go to art school?|||He wanted to learn how to code outside the box."
+		},
+		{
+			"id": 6,
+			"joke": "Why did the programmer's wife leave him?|||He didn't know how to commit."
+		},
+		{
+			"id": 7,
+			"joke": "Why do programmers prefer dark chocolate?|||Because it's bitter like their code."
+		},
+		{
+			"id": 8,
+			"joke": "Why did the programmer go broke?|||He used up all his cache"
+		},
+		{
+			"id": 9,
+			"joke": "Why did the programmer always mix up Halloween and Christmas?|||Because Oct 31 equals Dec 25."
+		},
+		{
+			"id": 42,
+			"joke": "Why don't programmers like nature?|||There's too many bugs."
+		},
+		{
+			"id": 43,
+			"joke": "Why was the JavaScript developer sad?|||He didn't know how to null his feelings."
 		}
 	]
 }
